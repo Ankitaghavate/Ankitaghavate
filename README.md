@@ -70,3 +70,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitaghavate&layout=compact&theme=radical" alt="Most Used Languages" style="margin:10px; border: 2px solid purple; border-radius: 10px;" />
   </div>
 </div>
+
+<!-- Dynamic stats display -->
+<div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px;">
+  <p style="font-size:20px;">Total Repositories: ![Total Repos](https://img.shields.io/github/followers/ankitaghavate?label=Total+Repos&style=social)</p>
+  <p style="font-size:20px;">Total Commits (2024): ![Total Commits](https://img.shields.io/github/commits-since/ankitaghavate/ankitaghavate/1.0?label=Total+Commits&style=flat)</p>
+  <p style="font-size:20px;">Total PRs: ![PRs](https://img.shields.io/github/pulls/ankitaghavate?label=PRs&style=social)</p>
+  <p style="font-size:20px;">Total Issues: ![Issues](https://img.shields.io/github/issues/ankitaghavate?label=Issues&style=social)</p>
+</div>
