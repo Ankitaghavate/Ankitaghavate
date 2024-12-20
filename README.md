@@ -1,4 +1,7 @@
-<h1 align="center" style="color:white; font-size:60px; font-weight:bold; animation: fadeIn 3s;">Welcome! 👋</h1>
+<!-- Welcome Message with Animation -->
+<h1 align="center" style="color:white; font-size:80px; font-weight:bold; background-color:#333333; padding:20px; border-radius:10px; animation: fadeIn 3s;">Welcome! 👋</h1>
+
+<!-- Animated Typing Message -->
 <h1 align="center">
   <span style="color:white; background-color:black; padding:10px; border-radius:10px;">
     <a href="#" style="text-decoration:none;">
@@ -6,6 +9,12 @@
     </a>
   </span>
 </h1>
+
+<!-- Adding the animation directly
+<h1 align="center" style="animation: fadeIn 3s;">
+  Welcome! 👋
+</h1> -->
+
 
 
 
