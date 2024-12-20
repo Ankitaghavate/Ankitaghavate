@@ -6,6 +6,8 @@
   </span>
 </h1>
 
+<h2 align="center" style="color:white; font-size:60px; font-weight:bold; animation: fadeIn 3s;">Welcome! 👋</h2>
+
 <div align="center">
   <h3 style="color:white; background-color:black; padding:10px; border-radius:10px;">GitHub Analytics</h3>
 
@@ -17,8 +19,35 @@
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitaghavate&theme=highcontrast" alt="GitHub Streak" style="margin:10px; border: 2px solid yellow; border-radius: 10px;" />
-  
+
   <!-- GitHub Contributions -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankitaghavate&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true" alt="GitHub Activity Graph" style="margin:10px; border: 2px solid green; border-radius: 10px;" />
+</div>
 
+<h3 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">Skills</h3>
 
+<div align="center">
+  <!-- Skills Badges -->
+  <img src="https://img.shields.io/badge/C%20Programming-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
 
+<style>
+  /* Animation for the welcome message */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
