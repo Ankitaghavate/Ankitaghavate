@@ -5,7 +5,7 @@
 <h1 align="center">
   <span style="color:white; background-color:black; padding:10px; border-radius:10px;">
     <a href="#" style="text-decoration:none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita+Ghavate" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita" alt="Typing SVG" />
     </a>
   </span>
 </h1>
