@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">
-  Data Scientist Engineer from India
+  Data Scientist 
 </h2>
 
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:18px;">
@@ -61,12 +61,10 @@
   </a>
 </p>
 
-<h3 align="center" style="color:white; background-color:black;">GitHub Stats and Streak</h3>
+<h3 align="center" style="color:white; background-color:black;">GitHub Stats</h3>
 
 <div align="center" style="background-color:black; padding:20px; border-radius:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="margin:10px; border: 2px solid cyan; border-radius: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitaghavate&theme=highcontrast" alt="GitHub Streak" style="margin:10px; border: 2px solid yellow; border-radius: 10px;" />
-  <p style="color:white; font-size:18px;">✨ Total Repositories: 12 | 🎉 Joined GitHub: Jan 2022 | 🌟 Total Contributions: 1300+</p>
 </div>
 
 <h3 align="center" style="color:white; background-color:black;">Most Used Languages</h3>
