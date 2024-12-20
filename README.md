@@ -1,20 +1,16 @@
 <h1 align="center">
   <span style="color:white; background-color:black; padding:10px; border-radius:10px;">
     <a href="#" style="text-decoration:none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita+Arjun+Ghavate;Data+Scientist+%7C+ML+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita+Arjun+Ghavate" alt="Typing SVG" />
     </a>
   </span>
 </h1>
 
-<h2 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">
-  Data Scientist 
-</h2>
-
-<div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:18px;">
-  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science-and-Machine-Learning" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science and Machine Learning</a></p>
-  <p>🌱 I’m currently learning <b style="font-size:20px;">Python for Data Science and Machine Learning</b></p>
-  <p>💬 Ask me about <b style="font-size:20px;">Data Science</b></p>
-  <p>📫 How to reach me: <a href="mailto:ghavateankita@gmail.com" style="color:cyan; text-decoration:none; font-size:20px;">ghavateankita@gmail.com</a></p>
+<div align="left" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:22px; width:50%;">
+  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science-and-Machine-Learning" style="color:cyan; text-decoration:none; font-size:24px;">Python for Data Science and Machine Learning</a></p>
+  <p>🌱 I’m currently learning <b style="font-size:24px;">Python for Data Science and Machine Learning</b></p>
+  <p>💬 Ask me about <b style="font-size:24px;">Data Science</b></p>
+  <p>📫 How to reach me: <a href="mailto:ghavateankita@gmail.com" style="color:cyan; text-decoration:none; font-size:24px;">ghavateankita@gmail.com</a></p>
 </div>
 
 <h3 align="left" style="color:white; background-color:black;">Connect with me:</h3>
@@ -61,14 +57,16 @@
   </a>
 </p>
 
-<h3 align="center" style="color:white; background-color:black;">GitHub Stats</h3>
-
-<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="margin:10px; border: 2px solid cyan; border-radius: 10px;" />
+<div align="left" style="width:50%;">
+  <h3 align="left" style="color:white; background-color:black;">GitHub Stats</h3>
+  <div align="left" style="background-color:black; padding:20px; border-radius:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="margin:10px; border: 2px solid cyan; border-radius: 10px;" />
+  </div>
 </div>
 
-<h3 align="center" style="color:white; background-color:black;">Most Used Languages</h3>
-
-<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitaghavate&layout=compact&theme=radical" alt="Most Used Languages" style="margin:10px; border: 2px solid purple; border-radius: 10px;" />
+<div align="right" style="width:50%;">
+  <h3 align="center" style="color:white; background-color:black;">Most Used Languages</h3>
+  <div align="center" style="background-color:black; padding:20px; border-radius:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitaghavate&layout=compact&theme=radical" alt="Most Used Languages" style="margin:10px; border: 2px solid purple; border-radius: 10px;" />
+  </div>
 </div>
