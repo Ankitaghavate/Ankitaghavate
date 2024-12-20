@@ -38,7 +38,3 @@
   <img src="https://img.shields.io/github/followers/ankitaghavate?label=Total+Repos&style=social" alt="Total Repos" style="margin:10px;" />
 </div>
 
-<h3 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">Contribution Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankitaghavate&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true" alt="Activity Graph" />
-</div>
