@@ -23,38 +23,53 @@
 <h3 align="left" style="color:white; background-color:black;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin:10px; transform:scale(1); transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin:10px;" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:10px; transform:scale(1); transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:10px;" />
   </a>
-  <!-- Add more tools with similar animation effects -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" style="margin:10px;" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin:10px;" />
+  </a>
 </p>
 
 <h3 align="center" style="color:white; background-color:black;">GitHub Stats and Current Streak</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; background-color: black; padding: 20px; border-radius: 10px;">
-  <div style="margin: 10px; animation: fadeIn 2s;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border: 2px solid cyan; border-radius: 10px; transform:scale(1); transition:transform 0.5s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <div style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border: 2px solid cyan; border-radius: 10px;" />
   </div>
-  <div style="margin: 10px; animation: fadeIn 2.5s;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaghavate&theme=highcontrast" alt="GitHub Streak" style="border: 2px solid yellow; border-radius: 10px; transform:scale(1); transition:transform 0.5s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <div style="margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaghavate&theme=highcontrast" alt="GitHub Streak" style="border: 2px solid yellow; border-radius: 10px;" />
   </div>
 </div>
 
 <h3 align="center" style="color:white; background-color:black;">Most Used Languages</h3>
 
-<div align="center" style="animation: fadeIn 3s;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitaghavate&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" style="border: 2px solid purple; border-radius: 10px;" />
 </div>
-
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-</style>
