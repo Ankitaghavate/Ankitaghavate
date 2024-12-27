@@ -21,7 +21,7 @@ About me:- Data Scientist
 </h3>
 
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:20px;">
-  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science-and-Machine-Learning" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science and Machine Learning</a></p>
+  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>
   <p>🌱 I’m currently learning <b>Python for Data Science and Machine Learning</b></p>
   </div>
 
