@@ -21,7 +21,7 @@ About me:- Data Scientist
 </h3>
 
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:20px;">
-  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>
+<!--  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>-->
   <p>🌱 I’m currently learning <b>Python for Data Science and Machine Learning</b></p>
   </div>
 
@@ -54,7 +54,7 @@ About me:- Data Scientist
 </div>
 
 <h3 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">Skills</h3>
-
+ -->
 <div align="center">
   <!-- Skills Badges 
   <img src="https://img.shields.io/badge/C%20Programming-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -70,5 +70,5 @@ About me:- Data Scientist
     <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
     </div>
-    -->
+   
  
