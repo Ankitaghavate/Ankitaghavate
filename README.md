@@ -51,7 +51,7 @@ About me:- Data Scientist
 
   <!-- GitHub Contributions 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankitaghavate&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true" alt="GitHub Activity Graph" style="margin:10px; border: 2px solid green; border-radius: 10px;" />
-</div>-->
+</div>
 
 <h3 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">Skills</h3>
 
@@ -69,5 +69,6 @@ About me:- Data Scientist
     <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
-</div>
+    </div>
+    -->
  
