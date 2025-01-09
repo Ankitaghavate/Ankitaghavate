@@ -26,7 +26,7 @@ Aspiring Data Scientist 🚀
   </div>
 
 <h3 align="left" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px;">Connect with me:</h3>
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<!--<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> -->
 
 <p align="left">
   <a href="https://www.linkedin.com/feed/" target="_blank">
