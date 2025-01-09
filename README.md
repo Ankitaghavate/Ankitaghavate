@@ -36,7 +36,7 @@ Aspiring Data Scientist 🚀
   </a> -->
 </p>
 
-
+<br>
 <div align="center">
   <h3 style="color:white; background-color:black; padding:10px; border-radius:10px;">GitHub Analytics</h3>
 
