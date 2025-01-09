@@ -17,12 +17,12 @@
 
 
 <h3 align="center" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px; border-radius:10px;">
-Aspiring Data Scientist 
+Aspiring Data Scientist 🚀
 </h3>
 
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:20px;">
 <!--  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>-->
-  <p>🚀Passionate about data science, exploring innovative technologies, and leveraging data to drive impactful decision-making. I enjoy discovering and applying emerging technologies to transform raw datasets into actionable insights, aiming to solve real-world challenges with data-driven solutions.📊 </b></p>
+  <p>Passionate about data science, exploring innovative technologies, and leveraging data to drive impactful decision-making. I enjoy discovering and applying emerging technologies to transform raw datasets into actionable insights, aiming to solve real-world challenges with data-driven solutions.📊 </b></p>
   </div>
 
 
