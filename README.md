@@ -17,7 +17,7 @@
 
 
 <h3 align="center" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px; border-radius:10px;">
-About me:- Data Scientist 
+Aspiring Data Scientist 
 </h3>
 
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:20px;">
@@ -46,9 +46,9 @@ About me:- Data Scientist
   <!-- GitHub Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitaghavate&layout=compact&theme=radical" alt="Most Used Languages" style="margin:10px; border: 2px solid purple; border-radius: 10px;" />
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitaghavate&theme=highcontrast" alt="GitHub Streak" style="margin:10px; border: 2px solid yellow; border-radius: 10px;" />
-
+-->
   <!-- GitHub Contributions 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankitaghavate&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true" alt="GitHub Activity Graph" style="margin:10px; border: 2px solid green; border-radius: 10px;" />
 </div>
