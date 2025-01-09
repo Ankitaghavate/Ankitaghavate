@@ -24,9 +24,10 @@ Aspiring Data Scientist 🚀
 <!--  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>-->
   <p>Passionate about data science, exploring innovative technologies, and leveraging data to drive impactful decision-making. I enjoy discovering and applying emerging technologies to transform raw datasets into actionable insights, aiming to solve real-world challenges with data-driven solutions.📊 </b></p>
   </div>
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 <h3 align="left" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px;">Connect with me:</h3>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 <p align="left">
   <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
