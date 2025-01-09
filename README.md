@@ -15,7 +15,6 @@
   Welcome! 👋
 </h1> -->
 
-
 <h3 align="center" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px; border-radius:10px;">
 Aspiring Data Scientist 🚀
 </h3>
@@ -36,8 +35,6 @@ Aspiring Data Scientist 🚀
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a> -->
 </p>
-
-<br>
 <div align="center">
   <h3 style="color:white; background-color:black; padding:10px; border-radius:10px;">GitHub Analytics</h3>
 
