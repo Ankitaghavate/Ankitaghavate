@@ -1,5 +1,8 @@
 <!-- Welcome Message with Animation -->
 <h1 align="center" style="color:white; font-size:80px; font-weight:bold; background-color:#333333; padding:20px; border-radius:10px; animation: fadeIn 3s;">Welcome! 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!-- Animated Typing Message -->
 <h1 align="center">
