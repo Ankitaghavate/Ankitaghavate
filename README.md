@@ -23,7 +23,6 @@ Aspiring Data Scientist 🚀
 </h3>
 
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:20px;">
- <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>
 <p>Passionate about data science, exploring innovative technologies, and leveraging data to drive impactful decision-making. I enjoy discovering and applying emerging technologies to transform real-world problems into data-driven solutions.</p>
 </div>
 
