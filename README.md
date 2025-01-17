@@ -34,9 +34,9 @@ Aspiring Data Scientist 🚀
   <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
- <!-- <a href="https://www.leetcode.com/ankita_ghavate" target="_blank">
+  <a href="https://www.leetcode.com/ankita_ghavate" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a> -->
+  </a> 
 </p>
 <div align="center">
   <h3 style="color:white; background-color:black; padding:10px; border-radius:10px;">GitHub Analytics</h3>
