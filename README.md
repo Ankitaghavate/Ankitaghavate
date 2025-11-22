@@ -80,5 +80,13 @@ Aspiring Data Scientist 🚀
   <h4 style="color:white; background-color:black; padding:10px; border-radius:10px;">Frameworks</h4>
   <img src="https://img.shields.io/badge/Machine%20Learning-%2300CFFF?style=for-the-badge&logo=ml&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/NLP-%2300CFFF?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
+  <!-- Deep Learning & Frameworks -->
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenCV-%23FF0000?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
   
 </div>
