@@ -30,13 +30,6 @@ Aspiring Data Scientist 🚀
 </p>
 
 ---
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaghavate&layout=compact&theme=radical&cache_seconds=1800)
-
----
 
 ## 🎯 Interests & Learning Focus
 <p align="center">
