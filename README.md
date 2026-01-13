@@ -30,15 +30,11 @@ Aspiring Data Scientist 🚀
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaghavate&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaghavate&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
