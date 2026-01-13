@@ -1,92 +1,93 @@
 <!-- Welcome Message with Animation -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <!-- Animated Typing Message -->
 <h1 align="center">
-  <span style="color:white; background-color:black; padding:10px; border-radius:10px;">
-    <a href="#" style="text-decoration:none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita" alt="Typing SVG" />
-    </a>
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita" />
 </h1>
 
-<!-- Adding the animation directly
-<h1 align="center" style="animation: fadeIn 3s;">
-  Welcome! 👋
-</h1> -->
-
-<h3 align="center" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px; border-radius:10px;">
+<h3 align="center" style="background-color:black;color:white;padding:10px;border-radius:10px;">
 Aspiring Data Scientist 🚀
 </h3>
 
-<div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:20px;">
-<p>Passionate about data science, exploring innovative technologies, and leveraging data to drive impactful decision-making. I enjoy discovering and applying emerging technologies to transform real-world problems into data-driven solutions.</p>
+<div align="center" style="background-color:black;color:white;padding:20px;border-radius:10px;">
+  <p>
+    Passionate about Data Science and continuously exploring innovative technologies.
+    Highly interested in <b>Artificial Intelligence, Machine Learning, Deep Learning, and NLP</b>.
+    Actively learning and improving problem-solving skills by working on real-world projects and challenges.
+  </p>
 </div>
 
-<h3 align="left" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px;">Connect with me:</h3>
-<!--<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> -->
+---
 
+## 🔗 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
-
 </p>
 
-<div align="center">
-  <h3 style="color:white; background-color:black; padding:10px; border-radius:10px;">GitHub Analytics</h3>
+---
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical" alt="GitHub Stats" style="margin:10px; border: 2px solid cyan; border-radius: 10px;" />
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitaghavate&show_icons=true&theme=radical" />
+</p>
 
-  <!-- GitHub Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitaghavate&layout=compact&theme=radical" alt="Most Used Languages" style="margin:10px; border: 2px solid purple; border-radius: 10px;" />
-  
-  <!-- GitHub Streak 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitaghavate&theme=highcontrast" alt="GitHub Streak" style="margin:10px; border: 2px solid yellow; border-radius: 10px;" />
-  -->
-  <!-- GitHub Contributions 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankitaghavate&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true" alt="GitHub Contributions" />
-  -->
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaghavate&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 
-<h3 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">Skills</h3>
+---
 
-<div align="center">
+## 🎯 Interests & Learning Focus
+<p align="center">
+  🤖 Artificial Intelligence &nbsp;|&nbsp;
+  📊 Machine Learning &nbsp;|&nbsp;
+  🧠 Deep Learning &nbsp;|&nbsp;
+  🗣 Natural Language Processing &nbsp;|&nbsp;
+  🧩 Problem Solving & Algorithms
+</p>
 
-  <!-- Languages -->
-  <h4 style="color:white; background-color:black; padding:10px; border-radius:10px;">Languages</h4>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-%2300CFFF?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+---
 
-  <!-- Tools -->
-  <h4 style="color:white; background-color:black; padding:10px; border-radius:10px;">Tools</h4>
-  <img src="https://img.shields.io/badge/Matplotlib-%234CAF50?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-%232C8EBB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  
-  <!-- Frameworks -->
-  <h4 style="color:white; background-color:black; padding:10px; border-radius:10px;">Frameworks</h4>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2300CFFF?style=for-the-badge&logo=ml&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/NLP-%2300CFFF?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
-  <!-- Deep Learning & Frameworks -->
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/OpenCV-%23FF0000?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+## 🛠 Skills
 
-  
-</div>
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00CFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🔧 Tools & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-2C8EBB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### ⚙ AI / ML Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-00CFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-00CFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</p>
+
+---
+
+⭐ **Always learning | Building | Improving problem-solving skills**
