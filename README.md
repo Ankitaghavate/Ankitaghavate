@@ -104,7 +104,7 @@ Actively building real-world projects and improving problem-solving skills throu
   <img src="https://img.shields.io/badge/T5-FF5722?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AutoGen-Agentic%20AI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoGen%20-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agentic%20AI-FF4500?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge"/>
 </p>
