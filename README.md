@@ -111,17 +111,5 @@ Actively building real-world projects and improving problem-solving skills throu
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning & Neural Networks
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain & AI Agents
-- Multi-Agent Systems using AutoGen
-- MLOps & Docker
-- Cloud Technologies (AWS)
-
----
 
 ⭐ **Always Learning | Building | Exploring AI | Solving Problems**
